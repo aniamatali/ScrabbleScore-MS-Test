@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Scrabble.tests.deps.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Scrabble.tests.runtimeconfig.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Scrabble.tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/obj/Debug/netcoreapp1.1/Scrabble.tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Scrabble.tests.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/Scrabble.tests.pdb
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/scrabble.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/bin/Debug/netcoreapp1.1/scrabble.pdb
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/obj/Debug/netcoreapp1.1/Scrabble.tests.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble.Tests/obj/Debug/netcoreapp1.1/Scrabble.tests.pdb

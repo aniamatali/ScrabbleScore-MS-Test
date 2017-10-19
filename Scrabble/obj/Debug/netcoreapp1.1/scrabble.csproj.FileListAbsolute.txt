@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/bin/Debug/netcoreapp1.1/scrabble.deps.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/bin/Debug/netcoreapp1.1/scrabble.runtimeconfig.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/bin/Debug/netcoreapp1.1/scrabble.runtimeconfig.dev.json
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/obj/Debug/netcoreapp1.1/scrabble.AssemblyInfo.cs
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/bin/Debug/netcoreapp1.1/scrabble.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/bin/Debug/netcoreapp1.1/scrabble.pdb
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/obj/Debug/netcoreapp1.1/scrabble.dll
+/Users/Guest/Desktop/Scrabble.solutions/Scrabble/obj/Debug/netcoreapp1.1/scrabble.pdb
