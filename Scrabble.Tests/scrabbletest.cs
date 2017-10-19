@@ -13,12 +13,12 @@ namespace Scrabble.Tests
     public void GetValue()
     {
       //Arrange
-      Scrabbler newWord = new Scrabbler("adbfkjq");
+      Scrabbler newWord = new Scrabbler("ADBFJKQ");
 
       int output = 33;
 
       //Act
-      int result = (newWord.CalculateScore());
+      int result = (newWord.dictScore());
       Console.WriteLine("result " + result);
 
       //Assert
