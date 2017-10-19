@@ -15,7 +15,8 @@ namespace Scrabble.Models
 
     public Scrabbler(string inputWord)
     {
-      _inputWord = inputWord.ToLower();
+      _inputWord = inputWord.ToLower().Replace("!","").Replace("?","");
+
     }
 
     public string GetWord()
